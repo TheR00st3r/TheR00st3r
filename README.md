@@ -4,7 +4,7 @@ Softwarearchitect mit Schwerpunkt industrielle Software. Hier zeige ich eigene P
 
 ## Schwerpunkte
 
-- **C# / .NET 10**: WPF für industrielle Oberflächen, Blazor für Webanwendungen
+- **C# / .NET**: WPF für industrielle Oberflächen, Blazor für Webanwendungen
 - **Architektur**: modulare Systeme, einheitliche Modulkonzepte, Dokumentation mit arc42
 - **KI-gestützte Entwicklung**: GitHub Copilot, Claude, Plugins mit Skills und MCP-Servern
 - **Betrieb**: Docker, CI/CD, Cloud-Betrieb auf eigenem vServer
